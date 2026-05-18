@@ -4,7 +4,6 @@ export default defineConfig({
   title: 'HF 工具箱使用教程',
   description: '面向普通用户的小米解锁、ROOT、线刷与备份恢复教程',
   lang: 'zh-CN',
-  base: '/mitooldoc/',
   cleanUrls: true,
   lastUpdated: true,
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
