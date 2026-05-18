@@ -8,12 +8,17 @@
 
 | 平台 | 对应机型 |
 | --- | --- |
+| 8S Gen 3 / 7+ Gen 3（SM8635 / SM7675） | Redmi Turbo 3、小米 Civi 4 Pro、小米平板 7 Pro |
 | 8 Gen 3（SM8650） | 小米 14 / 14 Pro / 14 Ultra、MIX Flip、MIX Fold 4、Redmi K70 Pro、K80 |
 | 8 Elite（SM8750） | 小米 15 / 15 Pro / 15 Ultra、Redmi K80 Pro |
 | 8 Gen 2（SM8550） | 小米 13 / 13 Pro / 13 Ultra、Redmi K60 Pro |
 | 更新平台 | 第五代骁龙 8 系列 |
 
 工具箱会自动检测你的设备芯片和机型，匹配对应的解锁方案。
+
+::: warning 8S Gen 3 适配要求
+8S Gen 3 / 7+ Gen 3 方案仅适用于 HyperOS 2.0 及以上，且安全补丁日期早于 2026-02-01 的设备。
+:::
 
 ## 操作步骤
 
