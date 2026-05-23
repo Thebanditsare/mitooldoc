@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: '开始使用', link: '/guide/start' },
       { text: '功能教程', link: '/features/xiaomi-unlock' },
+      { text: '官方交流群', link: '/guide/community' },
       { text: '常见问题', link: '/guide/faq' }
     ],
     sidebar: [
@@ -39,6 +40,7 @@ export default defineConfig({
       {
         text: '帮助',
         items: [
+          { text: '官方交流群', link: '/guide/community' },
           { text: '常见问题', link: '/guide/faq' },
           { text: '故障排查', link: '/guide/troubleshooting' }
         ]
